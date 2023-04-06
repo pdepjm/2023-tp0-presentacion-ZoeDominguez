@@ -9,7 +9,7 @@
 ___
 
   
-![Foto mía, con el pelo largo](https://github.com/pdepjm/2023-tp0-presentacion-ZoeDominguez/edit/main/DDVelez.jpeg)
+![Foto mía, con el pelo largo](https://github.com/pdepjm/2023-tp0-presentacion-ZoeDominguez/blob/8367885cb22f10883de2c78d655af96a9e26c0c9/DDVelez.jpeg)
   
 ___
 
@@ -19,11 +19,11 @@ Estoy en 2do/3er año, estudié en un colegio técnico alemán, aunque no me acu
 ___
 
   
-![Terry](https://github.com/pdepjm/2023-tp0-presentacion-ZoeDominguez/edit/main/TerryD.jpg)
+![Terry](https://github.com/pdepjm/2023-tp0-presentacion-ZoeDominguez/blob/8367885cb22f10883de2c78d655af96a9e26c0c9/TerryD.jpg)
   
 ___
 
-Algunas cosas que me gustan:
+## Algunas cosas que me gustan:
 - Escuchar música.
 - Tengo un obsesión con las zucaritas, me calma la ansiedad.
 - Tomar mate o café, también el té. 
