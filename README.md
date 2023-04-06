@@ -9,7 +9,7 @@
 ___
 
   
-![]
+![Foto mía, con el pelo largo](https://github.com/pdepjm/2023-tp0-presentacion-ZoeDominguez/edit/main/DDVelez.jpeg)
   
 ___
 
@@ -19,7 +19,7 @@ Estoy en 2do/3er año, estudié en un colegio técnico alemán, aunque no me acu
 ___
 
   
-![]
+![Terry](https://github.com/pdepjm/2023-tp0-presentacion-ZoeDominguez/edit/main/TerryD.jpeg)
   
 ___
 
