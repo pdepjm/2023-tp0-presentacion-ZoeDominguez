@@ -14,7 +14,7 @@ ___
 ___
 
 ## Algunas cosas sobre mí
-Estoy en 3er año, estudié en un colegio técnico alemán, aunque no me acuerdo mucho del idioma. El año pasado hice un diplomado de diseño audiovisual en videojuegos y participé en 3 JAMs, en la parte de narrativa, guión y SFX. Tengo un perrito, se llama Terry y le gusta comer zanahorias. Posiblemente, en persona, no te hable a menos que lo hagas primero, cosas de introvertidos.
+Curso materias de 3er año y algunas de 2do, estudié en un colegio técnico alemán, aunque no me acuerdo mucho del idioma. El año pasado hice un diplomado de diseño audiovisual en videojuegos y participé en 3 JAMs, en la parte de narrativa, guión y SFX. Tengo un perrito, se llama Terry y le gusta comer zanahorias. Posiblemente, en persona, no te hable a menos que lo hagas primero, cosas de introvertidos.
 
 ___
 
